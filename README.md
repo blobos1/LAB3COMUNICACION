@@ -1,0 +1,1 @@
+En la carpeta MATLAB se encuentran los codigos separados para la actividad previa y la actividad del laboratorio, lo mismo para la carpeta de GNU RADIO, ademas se adjunta el archivo .zip de latex que contiene el informe
